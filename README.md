@@ -141,7 +141,7 @@ Use the returned token as `Authorization: Bearer <token>` for subsequent request
 
 ## Background
 
-This project was built alongside 2+ years of professional experience on **Genesis**, an investment banking platform at Novel Patterns Pvt. Ltd., covering portfolio management, AIFs, mutual funds, and fund accounting. FinCore applies the same domain concepts in a clean, standalone codebase.
+This project was built alongside 2+ years of professional experience on an investment banking platform covering portfolio management, AIFs, mutual funds, and fund accounting. FinCore applies the same domain concepts in a clean, standalone codebase.
 
 ---
 
