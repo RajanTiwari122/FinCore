@@ -1,4 +1,5 @@
 # FinCore
+<<<<<<< HEAD
 
 A backend trading and fund management system built with Java and Spring Boot, covering equity/bond workflows, market data ingestion, NAV calculation, and role-based authentication.
 
@@ -149,3 +150,6 @@ This project was built alongside 2+ years of professional experience on **Genesi
 **Rajan**  
 Java Backend Developer | Fintech Domain  
 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+=======
+Backend trading system built with Java &amp; Spring Boot — equity/bond workflows, NSE/BSE data ingestion, NAV calculation, and JWT-based role authentication.
+>>>>>>> bb1aa7d4b334ade630971f1b5c78deb6391a2173
